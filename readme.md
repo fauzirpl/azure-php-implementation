@@ -1,0 +1,2 @@
+<h1>Ubah kode pada koneksi.php sesuai dengan kredensial di resource mysql anda</h1>
+<h1>Ubah kode pada edit-buku.php (LoC 36) dan tambah-buku.php (LoC 32) sesuai dengan kredensial di resource storage account anda</h1>
